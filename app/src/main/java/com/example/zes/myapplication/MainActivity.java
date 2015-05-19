@@ -13,7 +13,6 @@ public class MainActivity extends Activity {
     private ImageView imageView;
     private MyView myView;
     private Bitmap bitmap;
-    private Button button;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
